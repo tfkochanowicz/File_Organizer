@@ -3,8 +3,7 @@
 # Look at the code below this comment for the categories files are organized into
 # I wrote this project by following the guide here:
 # https://blog.mukundmadhav.com/organize-downloads-folder-python-83baf34a05db
-# Additionally you could create a .bat or .sh script to automatically after a given
-# time interval
+# Additionally you could create a .bat or .sh script to automatically run this script at a particular time every week or day.
 
 import os
 from pathlib import Path
